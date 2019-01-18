@@ -4,7 +4,7 @@
 #
 Name     : qtwebkit
 Version  : 5.5.1
-Release  : 2
+Release  : 3
 URL      : https://github.com/qt/qtwebkit/archive/v5.5.1.tar.gz
 Source0  : https://github.com/qt/qtwebkit/archive/v5.5.1.tar.gz
 Summary  : Web content engine for GTK+
